@@ -1,0 +1,4 @@
+I divided the task into two parts. The math problem, divide the input number to get the result number,
+and the format problem, truncate and add the Million, Billion or Trillion char.
+
+It supports negative numbers. Numbers with 16 digits are treated as trillions.
